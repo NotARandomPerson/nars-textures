@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/scorpion/slow_scorpion"
+	"$bumpmap" "models/player/scorpion/slow_scorpion_bump"
+
+ 	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost"	".35"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

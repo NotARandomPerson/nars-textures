@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/smith/smithbody"
+	"$bumpmap" "models/player/smith/smithbody-normal"
+	"$halflambert" 1
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

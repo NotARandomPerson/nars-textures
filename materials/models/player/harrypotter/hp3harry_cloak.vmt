@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/harrypotter/HP3Harry_Cloak"
+	"$bumpmap" "models/player/harrypotter/HP3Harry_Cloak_normal"
+	"$alphatest" 1
+	"$nocull" 1
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

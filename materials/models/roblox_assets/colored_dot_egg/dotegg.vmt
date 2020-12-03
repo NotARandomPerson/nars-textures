@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/roblox_assets/colored_dot_egg/DotEgg"
+	"$halflambert" "1"
+}

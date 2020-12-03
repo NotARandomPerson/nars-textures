@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Pokemon/Red_Eye05"
+	"$bumpmap" "models/Pokemon/flat_normal"
+	"$halflambert" "1"
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongboost" "0"
+	"$phongfresnelranges" "[1 1 1]"
+}

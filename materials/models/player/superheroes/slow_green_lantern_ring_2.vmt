@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\superheroes\slow_green_lantern"
+
+ 	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost"	"5"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

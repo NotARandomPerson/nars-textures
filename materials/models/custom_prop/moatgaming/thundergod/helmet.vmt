@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/custom_prop/moatgaming/thundergod/helmet"
+	"$bumpmap" "models/custom_prop/moatgaming/thundergod/helmet_n"
+	"$nocull" "1"
+	"$blendtintbybasealpha" "1"
+ 	"$blendtintcoloroverbase" "0"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges" "[.8 .8 .6]"
+	$color2 "[1.0 1.0 1.0]"
+	Proxies {
+		mg_hatcolor {
+        	resultvar $color2
+        }
+    }
+}

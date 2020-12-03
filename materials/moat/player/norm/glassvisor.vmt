@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "moat/player/norm/glassvisor"
+	"$envmap" "env_cubemap"
+}

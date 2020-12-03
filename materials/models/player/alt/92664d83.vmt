@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/player/alt/teeth"
+	"$halflambert" 1
+}

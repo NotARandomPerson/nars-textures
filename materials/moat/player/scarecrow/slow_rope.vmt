@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "moat/player/scarecrow/slow_head"
+	"$bumpmap" "moat/player/scarecrow/slow_head_bump"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"1"
+	"$phongboost"		"1"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+}

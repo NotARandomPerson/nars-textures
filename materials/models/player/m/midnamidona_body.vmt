@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\m\midna_body"
+	"$selfillum" "1"
+}

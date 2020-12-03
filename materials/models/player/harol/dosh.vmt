@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/harol/DOSH" //Model's material path
+	
+	"$phong" 1 //Shiny.
+	"$phongexponent" "0"
+	"$phongboost" "0"	
+	
+	//"$lightwarptexture" "[Lightwarp]" Lightwarp. Commented.
+	//"$model" 1 Checks whether it's a model or not.
+	//"$blendtintbybasealpha" 1 Paintable or not?
+}

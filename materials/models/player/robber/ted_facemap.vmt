@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/robber/ted_facemap"
+	"$bumpmap" "models/player/robber/ted_facemap_normal"
+	"$halflambert" 1
+}

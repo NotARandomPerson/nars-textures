@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\ex-mo\quake3\players\doom\phobos_f"
+	"$envmap" 	"env_cubemap"
+
+}

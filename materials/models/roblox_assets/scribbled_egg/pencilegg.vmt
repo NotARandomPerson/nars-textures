@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/roblox_assets/scribbled_egg/PencilEgg"
+	"$halflambert" "1"
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/custom_prop/moatgaming/billy/Billy_hair"
+	"$bumpmap" "models/custom_prop/moatgaming/billy/Billy_hair_n"
+	
+	"$blendtintbybasealpha" "1"
+ 	"$blendtintcoloroverbase" "0"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges" "[.8 .8 .6]"
+}

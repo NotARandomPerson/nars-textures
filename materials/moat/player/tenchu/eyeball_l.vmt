@@ -1,0 +1,9 @@
+"eyes"
+{
+	"$basetexture" "moat/player/tenchu/eyeball"
+	"$iris" "moat/player/tenchu/eyeball"
+	"$halflambert" 1
+	"$nodecal" "1"
+}
+
+

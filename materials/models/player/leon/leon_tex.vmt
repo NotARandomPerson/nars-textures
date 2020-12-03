@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/leon/leon_tex"
+		"$model" 1
+	 "$halflambert" 1
+	"$phong" "1" 
+	"$phongboost" "1" 
+	"$phongfresnelranges" "[.1 .2 .3]"
+	"$phongexponent" "1"
+}

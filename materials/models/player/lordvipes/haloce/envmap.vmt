@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/lordvipes/haloce/envmap"
+	"$bumpmap" "models/player/lordvipes/haloce/envbump"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "{25 25 25}"
+	"$model" 1
+
+	"$phong" 1
+	"$phongboost" "10"
+	"$phongexponent" "25"
+	"$phongtint" "[1 .85 .85]"
+	"$phongfresnelranges" "[.5 .85 30]"
+	"$phongalbedotint" "1"
+}

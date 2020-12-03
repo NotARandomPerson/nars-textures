@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/rayman/rayman_pupil"
+	"$translucent" 1
+	"$alphatest" "1"
+	"$model" "1"
+}

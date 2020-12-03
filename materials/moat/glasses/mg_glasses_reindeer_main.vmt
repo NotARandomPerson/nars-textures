@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "moat/glasses/mg_glasses_reindeer_main"
+	"$bumpmap" "moat/glasses/mg_glasses_reindeer_norm"
+
+	"$blendtintbybasealpha" "1"
+ 	"$blendtintcoloroverbase" "0"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongexponenttexture" "models/moat/hats/green"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges" "[.8 .8 .6]"
+	$color2 "[1.0 1.0 1.0]"
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	//"$selfillum" "1"
+	"$additive" "1"
+	"$basetexture" "models/oneshot/blub/black"
+	"$translucent" "1"
+	"$bumpmap" "models/oneshot/blub/fakenormal"
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1"
+	//"$phongwarptexture"  "models/oneshot/blub/gridmap"
+	
+	"$model" "1"
+	"$phong" "1"
+	"$phongfresnelranges"	"[0.1 0.5 1.2]"
+}

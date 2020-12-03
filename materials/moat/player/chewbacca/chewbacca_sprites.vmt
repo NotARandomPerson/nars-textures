@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    "$baseTexture" "moat\player\chewbacca/chewbacca_sprites"
+    "$model" 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\PVPSPist\visier"	
+	"$selfillum" "1"
+	"$additive" 1
+}

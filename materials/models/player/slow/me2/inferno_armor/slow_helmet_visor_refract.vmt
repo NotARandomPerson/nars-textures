@@ -1,0 +1,24 @@
+"Refract"
+{
+ 	"$refractamount" 		".045"
+ 	"$bluramount" 		"0"
+
+	"$refracttint"		"[1 .8 .7]"
+	"$normalmap" 		"models/player/slow/me2/inferno_armor/slow_helmet_visor_bump"
+
+	"$surfaceprop" 		"glass"
+	"$model" 			"1"
+	"$forcerefract"		"1"
+
+	"$envmap" 				"env_cubemap"
+	"$envmaptint" 			"{179 164 95}"
+	"$envmapcontrast" 		".6"
+	"$envmapfresnel"			"-.05"
+	"$envmapsaturation" 		"1"
+
+	"$nodecal" 			1
+}
+
+
+
+

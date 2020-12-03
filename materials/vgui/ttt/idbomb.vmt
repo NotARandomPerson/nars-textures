@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/ttt/idbomb"
+	"$nocull" 1
+	"$ignorez" 1
+	"$nodecal" 1
+	"$nolod" 1
+	"$translucent" 1
+}

@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/tfa_fo4/deliverer/covertsupressor_d"
+	$bumpmap "models/tfa_fo4/deliverer/covertsupressor_n"
+	$phongexponenttexture "models/tfa_fo4/deliverer/covertsupressor_e"
+	
+	$normalmapalphaenvmapmask  "1"
+ 	$envmap "env_cubemap"
+	$envmaptint "[ .025 .025 .025 ]"
+	$envmapfresnel "1"
+	
+	$phong "1"
+	$phongboost "4.5"	
+	$phongfresnelranges	"[0.1 0.65 1.00]"
+	$phongalbedotint "1"
+	
+	$nocull "1"
+}

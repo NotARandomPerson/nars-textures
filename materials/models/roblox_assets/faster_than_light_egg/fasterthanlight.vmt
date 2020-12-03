@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/roblox_assets/faster_than_light_egg/FasterthanLight"
+	"$halflambert" "1"
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+    "$baseTexture" "models\weapons\v_models\PVPThompsonModl\stuff1024"
+    "$envmapmask" "models\weapons\v_models\PVPThompsonModl\stuff1024_envmap"
+    "$envmap" "env_cubemap"
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture" "models\faith/hair_darkbrown"
+	"$bumpmap" "models\faith/hair_normal"
+	
+	"$translucent" 1
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongboost"   "0.1"
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongexponent" 30
+	"$phongalbedotint" "1.5"
+}

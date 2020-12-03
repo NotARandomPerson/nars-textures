@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/W_358/w_358"
+	"$translucent" 1
+}

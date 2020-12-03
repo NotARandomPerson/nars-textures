@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models/player/clopsy/Combine_zombi"
+	"$model" 1
+	"$halflambert" 1
+}
+
+
+

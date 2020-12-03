@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/chris/slow_electrics"
+	"$bumpmap" "models/player/chris/slow_electrics_bump"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"7"
+	"$phongboost"		"20"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+}

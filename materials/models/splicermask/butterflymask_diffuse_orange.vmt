@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+//i bet Dean and Boxes fucking love this mask
+"$basetexture" "models/splicermask/butterflymask_diffuse_orange"
+               $phong			1
+
+                $bumpmap   "models/splicermask/butterflymask_normal"
+	$phongexponent		"70"
+	$phongboost		"10"
+	$phongfresnelranges	"[0 0.5 0.5]"
+
+	$rimlight               1
+	$rimlightexponent    "5000"
+	$rimlightboost          "1"
+
+}

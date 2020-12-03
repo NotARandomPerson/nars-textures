@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\m\midna_hair2"
+ 
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar $color2
+			default  0.53 0.46 0.39
+		}
+	}
+}

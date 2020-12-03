@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/foohy/chompers"
+	"$alphatest" "1"
+	"$nocull" "1"
+	"$halflambert" 1
+}

@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/chris/slow_metal_parts"
+	"$bumpmap" "models/player/chris/slow_metal_parts_bump"
+
+	"$nocull" 1
+
+	"$phong" 			"0"
+	"$phongexponent" 		"2"
+	"$phongboost"		"25"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[1 1 1]"
+	"$envmapcontrast" .2
+	"$envmapsaturation" .5
+}

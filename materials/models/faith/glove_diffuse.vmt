@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/faith/glove_diffuse"
+	"$bumpmap" "models/faith/glove_normal"
+
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.4 0.4 0.4]"
+	"$phongexponent" 5
+	"$rimlight" "1"								
+	"$rimlightexponent" "0.5"								
+	"$rimlightboost" "0.4"
+}

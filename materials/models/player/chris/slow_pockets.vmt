@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/chris/slow_pockets"
+	"$bumpmap" "models/player/chris/slow_pockets_bump"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"3"
+	"$phongboost"		"3"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+}

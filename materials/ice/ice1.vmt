@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "ice/ice1"
+	"$surfaceprop" "glass"
+	"$model" 1
+	"$translucent" 1
+}

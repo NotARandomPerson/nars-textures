@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$alpha" "0.5"
+	"$translucent" "1"
+	"$allowfencerenderstatehack" "1"
+	"$basetexture" "models/roblox_assets/invisible_egg_of_shadow/ShadowEgg"
+	"$halflambert" "1"
+}

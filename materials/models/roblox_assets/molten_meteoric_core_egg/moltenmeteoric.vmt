@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/roblox_assets/molten_meteoric_core_egg/MoltenMeteoric"
+	"$halflambert" "1"
+}

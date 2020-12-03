@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/linktp/ear"
+	"$halflambert" 1
+}

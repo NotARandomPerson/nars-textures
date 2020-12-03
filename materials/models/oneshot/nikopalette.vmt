@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/oneshot/nikopalette2"
+	"$halflambert" "1"
+	
+	"$nocull" "0"
+	"$model" "1"
+}

@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$baseTexture" "models\Zelda/eyeball_r"
+	"$iris" "models\zelda/ZeldSS07r"
+	"$halflambert" 1
+}

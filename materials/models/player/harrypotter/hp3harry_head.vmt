@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/harrypotter/HP3Harry_Head"
+	"$bumpmap" "models/player/harrypotter/HP3Harry_Head_normal"
+}

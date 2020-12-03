@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "moat/player\gordon/glint"
+	"$additive" 1
+	"$model" 1
+}

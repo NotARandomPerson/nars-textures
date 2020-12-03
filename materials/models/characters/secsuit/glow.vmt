@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 						"models/characters/secsuit/glow"
+
+	"$selfillum"				"1"
+
+	"$nodecal" 							"1"
+	"$nocull" 							"1"
+		
+}

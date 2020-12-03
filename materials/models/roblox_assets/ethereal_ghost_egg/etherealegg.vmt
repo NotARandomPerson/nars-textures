@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$alpha" "0.5"
+	"$translucent" "1"
+	"$allowfencerenderstatehack" "1"
+	"$basetexture" "models/roblox_assets/ethereal_ghost_egg/EtherealEgg"
+	"$halflambert" "1"
+}

@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "moat/glasses/mg_glasses_xmastscl_main"
+	"$nocull" 1
+	$textureoffset 0
+	Proxies
+	{
+	TextureTransform
+	{
+	translateVar $textureoffset
+	resultVar $baseTextureTransform
+	}
+	TextureScroll
+	{
+	texturescrollvar $textureoffset
+	texturescrollrate 0.1
+	texturescrollangle -90.00
+	}
+
+	EntityRandom
+		{
+	resultVar $offset
+}
+
+}
+}

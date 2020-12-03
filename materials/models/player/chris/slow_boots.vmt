@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/chris/slow_boots"
+	"$bumpmap" "models/player/chris/slow_boots_bump"
+}

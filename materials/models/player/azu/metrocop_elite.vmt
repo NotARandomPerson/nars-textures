@@ -1,0 +1,22 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/azu/metrocop_elite"
+	//"$bumpmap" "models/player/azu/metrocop_elite_normal"
+	//"$envmap" 		"env_cubemap"
+	//"$basealphaenvmapmask" 1
+	//"$normalmapalphaenvmapmask" 1
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}
+

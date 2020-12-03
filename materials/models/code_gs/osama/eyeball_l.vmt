@@ -1,0 +1,10 @@
+"eyes"
+{
+	"$basetexture" "models\code_gs\osama\eyeball_l"
+	"$iris" "models\code_gs\osama\pupil_l"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.25 0.5 1]"
+}

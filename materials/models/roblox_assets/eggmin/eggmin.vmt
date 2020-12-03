@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/roblox_assets/eggmin/Eggmin"
+	"$halflambert" "1"
+}

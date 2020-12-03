@@ -1,0 +1,24 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/player/alt/clothing"
+	"$halflambert" 1
+	"$nocull" 1
+	"$bumpmap" "models/player/alt/clothing"
+
+	"$phong" "1"
+	"$phongexponent" 30
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.05 0.4 1]"
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}
+

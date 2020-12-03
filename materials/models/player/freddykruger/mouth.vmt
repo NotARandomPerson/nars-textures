@@ -1,0 +1,31 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/player/freddykruger/Kruger_Diff"
+
+	"$halflambert" "1"
+     "$bumpmap" "models/player/freddykruger/kruger_nm"
+$AmbientOcclusion 1
+$AmbientOcclTexture "models/player/freddykruger/kruger_ao"
+"$ambientocclusiontexture" "models/player/freddykruger/kruger_ao"
+
+"$phongexponenttexture" "models/player/freddykruger/kruger_spec"
+"$phongexponent" "3"
+"$phongalbedotint" 1
+"$phong" "1"
+"$color2" "[.75 .75 .75]" 
+	"$phongboost"	"30.5"          
+                //"$phongtint" "[1.02 1.52 1.48]" 
+	"$phongfresnelranges"	"[.15 .15 .15]"
+//"$detail" "models/player/freddykruger/kruger_ao"
+ $detailscale "1"	
+$detailblendmode 0
+$detailblendfactor 1
+
+"$rimlight" "1" 
+"$rimlightexponent" "0.5" 
+"$rimlightboost" ".75" 
+"$rimmask" 1
+
+$diffuseexp "0.3"
+
+}

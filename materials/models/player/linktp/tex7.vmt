@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/linktp/tex7"
+	"$halflambert" 1
+}

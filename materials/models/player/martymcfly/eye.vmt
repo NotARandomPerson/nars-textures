@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/martymcfly/Eye"
+	"$bumpmap" "effects/flat_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.01 0.01 0.01]"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "23"
+	"$phongtint" "[0 0.5 1]"
+	"$phongfresnelranges" "[1 1 0.5]"
+	"$halflambert" "1"
+}

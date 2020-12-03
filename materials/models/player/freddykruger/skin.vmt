@@ -1,0 +1,41 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/player/freddykruger/Kruger_Diff"
+
+	"$halflambert" "1"
+     "$bumpmap" "models/player/freddykruger/kruger_nm"
+$AmbientOcclusion 1
+$AmbientOcclTexture "models/player/freddykruger/kruger_ao"
+"$ambientocclusiontexture" "models/player/freddykruger/kruger_ao"
+
+"$phongexponenttexture" "models/player/freddykruger/kruger_spec"
+"$phongexponent" "2"
+"$phongalbedotint" 1
+"$phong" "1"
+
+
+"$color2" "[1.25 1.25 1.25]" 
+	"$phongboost"	"4"          
+                "$phongtint" ".98 .96 .92]" 
+	"$phongfresnelranges"	"[.15 .15 .15]"
+//"$detail" "models/player/freddykruger/kruger_ao"
+ $detailscale "1"	
+$detailblendmode 0
+$detailblendfactor 1
+
+"$rimlight" "1" 
+"$rimlightexponent" "0.5" 
+"$rimlightboost" "1.75" 
+"$rimmask" 1
+
+$diffuseexp "0.3"
+"$colorfix" "[1 1 1]"
+Proxies
+	{
+	Equals
+		{
+		srcVar1 "$colorfix"
+		resultVar "$color"
+		}
+	}
+}

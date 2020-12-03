@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/v_models/VIRflakhg/EU_Handgun"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/weapons/v_models/VIRflakhg/EU_Handgun_env"
+	"$envmaptint" "[.30 .30 .30]"
+}

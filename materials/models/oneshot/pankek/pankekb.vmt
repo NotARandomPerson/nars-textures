@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/oneshot/pankek/pankek_old"
+	"$bumpmap" "models/oneshot/pankek/pankekNB"
+	
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1"
+	"$phongtint" "[1.0 0.7 0.4]"
+	"$phongfresnelranges"	"[1 1 1]"
+}

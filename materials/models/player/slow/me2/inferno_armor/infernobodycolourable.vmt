@@ -1,0 +1,30 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/player/slow/me2/inferno_armor/InfernoBodyColourable"
+	"$bumpmap" 		"models/player/slow/me2/inferno_armor/slow_body_bump"
+
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "1"
+
+ 	"$phong" 				"1"
+	"$phongexponenttexture"		"models/player/slow/me2/inferno_armor/slow_body_exp"
+	"$phongboost"			"4.5"
+	"$phongfresnelranges"		"[.15 .3 .5]"
+
+	"$selfillum"		"1"
+	"$selfillummask"		"models/player/slow/me2/inferno_armor/slow_body_sf"
+
+	"$rimlight"			"1"
+	"$rimlightexponent"	"2"	
+	"$rimlightboost"		"5"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.8 0.1 0.1
+		}
+	}
+}
+

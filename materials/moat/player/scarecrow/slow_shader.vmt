@@ -1,0 +1,20 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "moat/player/scarecrow/slow_head"
+	"$texture2" "moat/player/scarecrow/slow_poison"
+
+	"$model" 1
+	"$additive" "1"
+	"$translucent" 1
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" -.20
+			"texturescrollangle" 30
+		}
+	}
+}
+

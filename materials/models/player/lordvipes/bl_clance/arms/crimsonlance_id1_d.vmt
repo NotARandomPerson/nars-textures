@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/lordvipes/bl_clance/crimsonlance_body"
+	"$bumpmap" "models/player/lordvipes/bl_clance/crimsonlance_body_bump"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "0.1"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+	"$nocull" "1"
+
+	"$detail" "models/player/lordvipes/bl_clance/crimsonlance_body_glow"
+	"$detailscale" "1"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "5"
+
+	"$lightwarptexture" "models/player/lordvipes/bl_clance/blshade"
+
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

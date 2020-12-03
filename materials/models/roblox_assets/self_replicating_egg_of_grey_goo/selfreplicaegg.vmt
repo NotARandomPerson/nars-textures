@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/roblox_assets/self_replicating_egg_of_grey_goo/SelfReplicaEgg"
+	"$halflambert" "1"
+}

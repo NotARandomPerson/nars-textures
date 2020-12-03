@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/SlaYeR's_MSBS/naboj"
+	"$envmaptint" "[ 0.2 0.2 0.2 ]"
+	"$envmap" "env_cubemap"
+                "$rimlight" "1"
+                "$rimlightexponent" "80"	
+                "$rimlightboost" "0.5"
+
+}

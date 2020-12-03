@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/oneshot/illumpalette"
+	"$bumpmap" "models/oneshot/blub/fakenormal"
+	"$selfillum" "1"
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "64"
+	"$phongboost" "0.5"
+	"$phongalbedotint" "1"
+	"$phongtint" "[0.8 1 0.8]"
+	"$phongfresnelranges"	"[0.2 2 10]"
+
+	"$ambientocclusion" "1"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/roblox_assets/specular_egg_of_red_no_blue/SpecularEgg"
+	"$halflambert" "1"
+}

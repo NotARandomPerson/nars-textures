@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/roblox_assets/heat-seeking_egg/HeatSeeking"
+	"$halflambert" "1"
+}

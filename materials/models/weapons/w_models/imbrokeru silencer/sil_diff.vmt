@@ -1,0 +1,6 @@
+Vertexlitgeneric
+{
+"$basetexture" "models\weapons\v_models\ImBrokeRU Silencer\sil_diff"
+"$bumpmap" "models\weapons\v_models\ImBrokeRU Silencer\sil_norm"
+
+}

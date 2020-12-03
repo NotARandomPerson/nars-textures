@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\PVPToyHammerModel\squeaky_hammer"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\PVPToyHammerModel\toy_specular"
+}

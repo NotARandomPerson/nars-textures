@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+    $basetexture "models/kaesar/moat/catwoman/catwoman_head_d"
+    $bumpmap "models/kaesar/moat/catwoman/catwoman_head_N"
+
+	"$phong"			"1"
+	"$phongboost"		".05"
+	"$phongexponent"		"50"
+	"$phongfresnelranges"	"[.8 .8 .6]"
+}

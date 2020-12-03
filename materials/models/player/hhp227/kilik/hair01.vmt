@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\hhp227\kilik/hair"
+	"$alphatest" 1
+	"$bumpmap" "models/player\hhp227\kilik/nm/hair_normal"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongexponent" 280
+	"$phongboost"	"5"
+	"$phongfresnelranges"	"[.12 .15 .10]"
+	"$phongtint" "[.25 .22 .19]"
+	"$surfaceprop"  "no_decal"
+	"$nodecal" 1
+	
+	"$rimlight" "1" 
+	"$rimlightexponent" "380" 
+	"$rimlightboost" "3" 
+	"$rimmask" 1
+}

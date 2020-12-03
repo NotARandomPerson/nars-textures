@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/faith/eye_diffuse"
+	"$bumpmap" "models\faith/eye_normal"
+	
+	"$halflambert" 1	
+}

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/custom_prop/moatgaming/trashbag/mask"
+	"$bumpmap" "models/custom_prop/moatgaming/trashbag/mask_n"
+
+	"$phong"			"1"
+	"$phongboost"		".05"
+	"$phongexponent"		"50"
+	"$phongfresnelranges"	"[.8 .8 .6]"
+
+	"$halflambert" "1"
+}

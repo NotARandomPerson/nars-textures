@@ -1,0 +1,6 @@
+"Eyeball"
+{
+	"$baseTexture" "models\player/samuszero/Leftiris"
+	"$halflambert" 1
+	"$nodecal" 1
+}

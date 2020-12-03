@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/harrypotter/HP3Harry_hairA"
+	"$bumpmap" "models/player/harrypotter/HP3Harry_hairA_normal"
+	"$alphatest" 1
+	"$nocull" 1
+}

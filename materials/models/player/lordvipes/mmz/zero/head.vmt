@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\lordvipes\MMZ\Zero\head"
+	"$lightwarptexture" "models\player\lordvipes\MMZ\Zero\blshade"
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".7"	
+	"$phongfresnelranges"	"[.1 1 4]"
+	"$halflambert" "0"
+
+
+	"$rimlight" "1"											
+	"$rimlightexponent" "4"										
+	"$rimlightboost" "2"	
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$baseTexture" "models\player/samuszero/Eyeball_right"
+	"$iris" "models\player/samuszero/rightiris"
+	"$halflambert" 1
+	"$nodecal" 1
+}

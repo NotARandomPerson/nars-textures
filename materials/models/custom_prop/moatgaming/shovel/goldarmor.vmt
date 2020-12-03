@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/custom_prop/moatgaming/shovel/GoldArmor"
+	"$bumpmap" "models/custom_prop/moatgaming/shovel/phong"
+	"$halflambert"	"1"
+
+//	"$envmap"					"env_cubemap"
+//	"$normalmapalphaenvmapmask" "1"
+//	"$envmaptint"				"[0.11 0.11 0.11]"
+
+	"$nocull" 				"1"
+	"$phong"				"1"
+	"$phongalbedotint"			"1"
+	"$phongexponenttexture"		"models/custom_prop/moatgaming/shovel/exponent"
+	"$phongexponent"			"21"
+	"$phongboost"				"25"
+	"$phongfresnelranges"		"[.4 2 20]"
+	"$lightwarptexture" "models/custom_prop/moatgaming/shovel/lightwarp"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"4"
+	"$rimlightboost"			"15"
+	"$ambientocclusion" "1"
+}

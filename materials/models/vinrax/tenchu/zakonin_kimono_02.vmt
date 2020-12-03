@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vinrax/tenchu/zakonin_kimono_02"
+	"$bumpmap" "models/vinrax/tenchu/zakonin_kimono_02_nrm"
+	"$bumpmap2" "models/vinrax/tenchu/bump1"
+	"$nocull" 1
+}

@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\ex-mo\quake3\players\doom\phobos"
+	"$bumpmap" 			"models\ex-mo\quake3\players\doom\phobos_n"
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[0.2 0.2 0.2]"
+}

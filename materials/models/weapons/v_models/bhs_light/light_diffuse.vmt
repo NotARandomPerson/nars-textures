@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\bhs_light\light_diffuse"
+
+"$bumpmap"      "models\weapons\v_models\bhs_light\normal"
+
+"$normalmapalphaenvmapmask" "!"
+
+
+"$translucent" "1"
+
+
+
+}

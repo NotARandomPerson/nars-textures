@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/splicermask/birdmask_pink_diff"
+               $phong			1
+
+                $bumpmap   "models/splicermask/birdmask_normal1"
+	$phongexponent		"70"
+	$phongboost		"20"
+	$phongfresnelranges	"[0 0.5 0.5]"
+
+	$rimlight               1
+	$rimlightexponent    "5000"
+	$rimlightboost          "1"
+
+}

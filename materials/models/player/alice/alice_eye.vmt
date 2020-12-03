@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/player/alice/alice_eye"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/alice/alice_eye"
+	"$envmaptint" "[.9 .9 .9]"
+	"$envmapcontrast" .85
+	"$envmapsaturation" .5
+}

@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/textures/Mortalkombat_misc/Nothing"
+	"$alphatest" 1
+                "$nodraw" 1
+              "$nodecal" 1
+          
+}
+

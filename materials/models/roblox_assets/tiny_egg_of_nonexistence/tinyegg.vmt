@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$color2" "{0 0 255}"
+	"$basetexture" "models/roblox_assets/tiny_egg_of_nonexistence/TinyEgg"
+	"$halflambert" "1"
+}

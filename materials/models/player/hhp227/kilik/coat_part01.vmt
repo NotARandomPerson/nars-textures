@@ -1,0 +1,30 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\hhp227\kilik/coat_part01"
+	"$bumpmap" "models/player/hhp227/kilik/nm/coat_part01_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[.10 .15 .15]"
+	"$phongexponent" "5"
+	"$phongtint" "[4 3.9 4]"
+	"$AmbientOcclusion" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1" 
+	"$rimlightexponent" "3000000" 
+	"$rimlightboost" "1" 
+	"$rimmask" "1"
+	
+	"Proxies"
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0"
+}

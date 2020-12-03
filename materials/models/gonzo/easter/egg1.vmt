@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/gonzo/easter/egg1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "4"
+	"$lightwarptexture" "models/gonzo/easter/pyro_lightwarp"
+	"$phongfresnelranges"	"[.25 1 1]"
+	"$basemapalphaphongmask" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "5"
+}

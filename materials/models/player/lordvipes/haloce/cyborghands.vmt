@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+    	"$baseTexture" "models/player/lordvipes/haloce/cyborghands"
+	"$bumpmap" "models/player/lordvipes/haloce/cyborghands_bump"
+
+	"$phong" "1"
+	"$phongboost"	"10"
+	"$phongfresnelranges"	"[0.01 0.01 0]"
+	"$detail" "models/player/lordvipes/haloce/detail_corroded_metal_light"
+	"$detailscale" "10"
+	"$phongexponent" "100"
+	"$envmaptint" "[ 0.0 0.0 0.0 ]"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" "1"
+
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

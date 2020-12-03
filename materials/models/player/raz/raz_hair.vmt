@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models/player/raz/raz_hair"
+	"$model" 1
+}

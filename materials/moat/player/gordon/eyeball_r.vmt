@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$baseTexture" "moat/player\gordon/eyeball_r"
+	"$iris" "moat/player\gordon/grn_pupil_r"
+	"$halflambert" 1
+}

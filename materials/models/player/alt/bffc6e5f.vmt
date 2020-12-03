@@ -1,0 +1,10 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/player/alt/knife"
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongexponent" 30
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.05 0.4 1]"
+}

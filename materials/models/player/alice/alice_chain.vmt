@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/player/alice/alice_hair"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/alice/alice_hair"
+	"$envmaptint" "[.5 .5 .5]"
+	"$envmapcontrast" .9
+	"$envmapsaturation" .55
+	"$translucent" "1"
+	"$lightwarptexture" "models/player/alice/alice_lightwarp"
+}

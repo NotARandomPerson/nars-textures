@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/chris/slow_head"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/chris/slow_head"
+	"$envmaptint" "[1 1 1]"
+	"$envmapcontrast" .2
+	"$envmapsaturation" .5
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/alt/facemap"
+	"$halflambert" 1
+	"$bumpmap" "models/player/alt/facemap_bump"
+
+	"$phong" "1"
+	"$phongexponent" 30
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.05 0.4 1]"
+}

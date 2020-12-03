@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\PVPXM8Model\Assault_Foregrip"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongexponent" 40
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

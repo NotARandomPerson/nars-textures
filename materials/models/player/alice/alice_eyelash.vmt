@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/player/alice/alice_skin"
+	"$bumpmap" "models/player/alice/alice_skin_normal"
+	"$translucent" "1"
+	"$nocull" "1"
+	"$lightwarptexture" "models/player/alice/alice_lightwarp"
+	"$halflambert" "1"
+}

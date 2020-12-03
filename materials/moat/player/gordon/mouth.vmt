@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "moat/player\gordon/mouth"
+	"$halflambert" 1
+}

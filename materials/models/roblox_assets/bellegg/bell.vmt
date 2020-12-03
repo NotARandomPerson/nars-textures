@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$color2" "{255 255 255}"
+	"$basetexture" "models/roblox_assets/bellegg/Bell"
+	"$halflambert" "1"
+}

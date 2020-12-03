@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "moat/player/norm/arm_sheet"
+	"$bumpmap" "moat/player/arm_sheet_normal"
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

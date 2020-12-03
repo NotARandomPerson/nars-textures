@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/player/slow/me2/inferno_armor/slow_helmet_visor"
+	"$bumpmap"		"models/player/slow/me2/inferno_armor/slow_helmet_visor_bump"
+
+	"$envmap" 			"env_cubemap"
+	"$envmapfresnel"		"-1"
+	"$envmaptint" 		"{179 164 95}"
+
+	"$translucent" 		"1"
+
+	"$nodecal" 			1
+}

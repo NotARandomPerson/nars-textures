@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/leon/pl0005"
+		"$model" 1
+	 "$halflambert" 1
+}

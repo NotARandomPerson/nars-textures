@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\faith/Teeth_Diffuse"	
+	"$nocull" "1"
+}

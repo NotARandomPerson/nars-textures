@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\hhp227\kilik/teeth"
+	"$bumpmap" "models/player/hhp227\kilik/nm/teeth_normal"
+	"$halflambert" 1
+	"$model" "1"
+ 	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	"5"
+	"$phongfresnelranges"	"[.2 .2 .2]"
+	"$phongalbedotint" "1"
+	"$nodecal" 1
+	"$AmbientOcclusion" "1"
+}

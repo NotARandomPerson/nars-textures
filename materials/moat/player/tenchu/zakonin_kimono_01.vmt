@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "moat/player/tenchu/zakonin_kimono_01"
+	"$bumpmap" "moat/player/tenchu/zakonin_kimono_01_nrm"
+	"$nocull" 1
+}

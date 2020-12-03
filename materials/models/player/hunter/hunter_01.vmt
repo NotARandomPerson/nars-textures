@@ -1,0 +1,18 @@
+vertexlitgeneric
+{
+	$baseTexture "models\player\hunter\hunter_01"
+	$halflambert 1
+	$bumpmap "models\player\hunter\hunter_01_normal"
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

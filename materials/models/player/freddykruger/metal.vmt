@@ -1,0 +1,18 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/player/freddykruger/Kruger_Diff"
+
+	"$halflambert" "1"
+
+     "$bumpmap" "models/player/freddykruger/kruger_nm"
+
+"$colorfix" "[1 1 1]"
+Proxies
+	{
+	Equals
+		{
+		srcVar1 "$colorfix"
+		resultVar "$color"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/martymcfly/Face"
+
+	"$bumpmap" "effects/flat_normal"
+	
+	"$phong" "1"
+	"$phongboost" "0.2"
+	"$phongexponent" "12"
+	"$phongtint" "[1 0.9 0.7]"
+	"$phongfresnelranges" "[1 1 0.5]"
+	"$halflambert" "1"	
+}

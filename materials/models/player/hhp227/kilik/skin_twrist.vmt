@@ -1,0 +1,21 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\hhp227\kilik/skin_twrist"
+	"$bumpmap" "models/player/hhp227\kilik/nm/skin_twrist_normal"
+	"$halflambert" 1
+	"$model" "1"
+ 	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongtint"		"[.9 .7 .7]"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[0.3 3 30]"
+	"$phongalbedotint" "1"
+	"$surfaceprop" "flesh"
+	"$AmbientOcclusion" "1"
+	"$falloffamount" "2"
+	
+	"$rimlight" "1" 
+	"$rimlightexponent" "1" 
+	"$rimlightboost" "2" 
+	"$rimmask" 1
+}

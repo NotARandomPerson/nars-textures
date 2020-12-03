@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/roblox_assets/supersonic_egg/SupersonicEgg"
+	"$halflambert" "1"
+}

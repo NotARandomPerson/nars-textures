@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/teslapower/slow_addon"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/teslapower/slow_addon"
+	"$envmaptint" "[1 .69 .52]" 
+	"$envmapcontrast" .5
+	"$envmapsaturation" 1
+}

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/custom_prop/moatgaming/daft/helmet_black"
+	"$bumpmap" "models/custom_prop/moatgaming/daft/helmet_black_normal"
+
+	"$phong" "1"
+	"$phongexponent" "90"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.6 .8 .5]"
+                "$ambientocclusion" "1"
+}
+

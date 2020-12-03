@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\hhp227\kilik/coat_part02"
+	"$bumpmap" "models/player/hhp227/kilik/nm/coat_part02_normal"
+	"$phong" "1"
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[.10 .15 .15]"
+	"$phongexponent" "5"
+	"$phongtint" "[4 3.9 4]"
+	"$AmbientOcclusion" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1" 
+	"$rimlightexponent" "3000000" 
+	"$rimlightboost" "1" 
+	"$rimmask" "1"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/aphaztech/head"
+	"$model" 1
+	"$halflambert" 1
+}

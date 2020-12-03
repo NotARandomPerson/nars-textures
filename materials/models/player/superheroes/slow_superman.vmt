@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\superheroes\slow_superman"
+	"$bumpmap" "models\player\superheroes\slow_superman_bump"
+}

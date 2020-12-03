@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$alpha" "0.899999998509884"
+	"$translucent" "1"
+	"$allowfencerenderstatehack" "1"
+	"$halflambert" "1"
+	"$basetexture" "models/roblox_assets/the_cloud_egg/CloudEgg"
+}

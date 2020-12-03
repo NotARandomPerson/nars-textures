@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/SlaYeR's_MSBS/MSBSbase"
+	"$bumpmap"   "models/weapons/v_models/SlaYeR's_MSBS/MSBSbase_normal"
+
+	"$phongexponent"   "30"
+	"$phong"   "1"
+	"$phongfresnelranges"   "[0.2 0.5 1]"
+
+	"$phongboost"   "1.5"
+
+                "$PhongAlbedoTint"  "1"
+
+                "$rimlight" "1"
+                "$rimlightexponent" "50"	
+                "$rimlightboost" "0.28"
+}

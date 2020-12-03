@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models\thewalkingdead\carley/eyeball"
+	"$iris" "models\thewalkingdead\carley/pupil"
+	"$halflambert" "1"
+}

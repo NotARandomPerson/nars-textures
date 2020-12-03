@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/rorschach/main/slow_face"
+	"$bumpmap" "models/player/rorschach/main/slow_face_bump"
+
+	"$translucent" 1
+}

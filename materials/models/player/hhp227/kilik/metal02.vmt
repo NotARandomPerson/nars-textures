@@ -1,0 +1,28 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\hhp227\kilik/metal02"
+	"$bumpmap" "models/player/hhp227\kilik/nm/metal02_normal"
+	"$halflambert" 1
+	"$model" "1"
+	"$reflectivity" "[.8 .8 .8]"
+	"$envmapsphere"  "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.22 .22 .22]" 
+	"$envmapcontrast" 0
+	"$envmapsaturation" .5
+	"$normalmapalphaenvmapmask" 1
+ 	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongtint" "[ .85 .68 .45]"
+	"$phongboost"	"10"
+	"$phongfresnelranges"	"[.2 .2 .2]"
+	"$phongalbedotint" "1"
+	"$surfaceprop" "metal"
+	"$AmbientOcclusion" "1"
+	"$falloffamount" "2"
+	
+	"$rimlight" "1" 
+	"$rimlightexponent" "4" 
+	"$rimlightboost" "2.5" 
+	"$rimmask" "1"
+}

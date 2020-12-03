@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/romanbellic/uppr_diff_001_a_uni"
+	"$halflambert" 1
+		"$blendtintbybasealpha" "1" 
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			
+		}
+
+
+	}
+}

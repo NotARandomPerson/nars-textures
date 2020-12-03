@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+    $basetexture "models/kaesar/moat/catwoman/eye_d"
+
+	"$phong"			"1"
+	"$phongboost"		".05"
+	"$phongexponent"		"50"
+	"$phongfresnelranges"	"[.8 .8 .6]"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "moat/player\gordon/gordon_facemap"
+	"$halflambert" "1"
+	"$nocull" "1"
+}

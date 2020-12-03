@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gamma_baton/hand"
+	"$normalmap" "models/gamma_baton/handnorm"
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/faith/body_upper_diffuse"
+	"$bumpmap" "models/faith/body_upper_normal"
+	
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongboost"   "0.1"
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongexponent" 30
+	"$phongalbedotint" "1.5"
+}

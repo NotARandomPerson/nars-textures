@@ -1,0 +1,35 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models\player\r\fodder01"
+	"$envmap" "env_cubemap"	
+	"$bumpmap" "models\player\r\fodder01_normal"
+	"$envmaptint" "[.030 .030 .030]"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapfresnel" "1"
+//	"$envmapcontrast" 1
+	//"$selfillum" 1
+	//"$halflambert" 1
+	"$model" 1
+	"$phong" "1"
+	"$phongexponent" "55"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[.4 2 1]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "2"	
+	"$rimlightboost" "1"
+	
+//	"$phongfresnelranges"	"[.4 5 1]"
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

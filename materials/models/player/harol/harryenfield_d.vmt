@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/harol/harryenfield_d" //Model's material path
+	
+	"$phong" 1 //Shiny.
+	"$phongexponent" "0"
+	"$phongboost" "0"	
+	
+	//"$lightwarptexture" "[Lightwarp]" Lightwarp. Commented.
+	//"$model" 1 Checks whether it's a model or not.
+	//"$blendtintbybasealpha" 1 Paintable or not?
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

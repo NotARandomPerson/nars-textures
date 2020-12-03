@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/gordon/hevsuit_sheet_3"
+	"$halflambert" "1"
+}

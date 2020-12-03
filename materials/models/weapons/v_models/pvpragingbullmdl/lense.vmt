@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\PVPRagingBullMDL\lense"
+	"$additive" "1"
+	"$envmaptint" "[ 0.3 0.3 0.3 ]"
+	"$selfillum" 1
+}

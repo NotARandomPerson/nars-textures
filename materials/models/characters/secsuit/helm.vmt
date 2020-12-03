@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 						"models/characters/secsuit/helm"
+	"$bumpmap" 							"models/characters/secsuit/helm_n"
+	
+	"$detail"						    "models/characters/secsuit/detail_a"
+	"$detailscale" 						"20"
+
+	"$allowdiffusemodulation" 			"0"
+	"$ambientocclusion" 				"1"
+
+	"$nodecal" 							"1"
+	"$nocull" 							"1"
+	
+	$phong 1
+	$phongboost	1
+	$phongfresnelranges	"[0.05 0.5 1]"
+	$phongexponent 4
+	
+	//"$rimlight" 						"1"
+	"$lightwarptexture" 				"models/characters/secsuit/secsuit_lightwarp"
+		
+}

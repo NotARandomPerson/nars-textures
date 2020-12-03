@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/maid_dragon/lucoa/default/swimsuit2"
+	"$nocull" 1
+	$ambientocclusion 0
+	$halflambert 1
+	"$bumpmap" "models/dewobedil/maid_dragon/lucoa/default/normal"
+
+	"$lightwarptexture" "models/dewobedil/maid_dragon/lucoa/default/toon_shirt"
+
+	"$phong" "1"
+	"$phongboost"	".05"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/dewobedil/maid_dragon/lucoa/default/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

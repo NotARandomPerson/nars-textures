@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "moat/player\gordon/arm_sheet_2"
+	"$bumpmap" "moat/player\gordon/arm_sheet_normal"
+}

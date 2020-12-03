@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/player/slow/me2/inferno_armor/slow_body"
+	"$bumpmap" 		"models/player/slow/me2/inferno_armor/slow_body_bump"
+
+	"$selfillum"		"1"
+	"$selfillummask"		"models/player/slow/me2/inferno_armor/slow_body_sf"
+
+ 	"$phong" 			"1"
+	"$phongexponent" 		"2"
+	"$phongboost"		"4"
+	"$phongfresnelranges"	"[.15 .3 .5]"
+
+	"$nodecal" 			1
+}

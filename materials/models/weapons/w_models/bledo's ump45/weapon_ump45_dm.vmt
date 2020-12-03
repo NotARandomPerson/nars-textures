@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\v_models\Bledo's UMP45\weapon_ump45_dm"
+	"$bumpmap" 			"models\weapons\v_models\Bledo's UMP45\weapon_ump45_nm"
+
+}

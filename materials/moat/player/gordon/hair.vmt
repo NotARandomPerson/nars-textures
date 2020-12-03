@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "moat/player\gordon/hair"
+	"$nocull" "1"
+	"$translucent" "1"
+//	"$no_draw" "1"
+}

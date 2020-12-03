@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/chris/slow_eyelashes"
+
+	"$nocull" 1
+	"$translucent" 1
+}

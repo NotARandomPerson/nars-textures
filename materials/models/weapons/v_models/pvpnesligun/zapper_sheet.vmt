@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/v_models/PVPNesLiGun/zapper_sheet"
+
+	"$envmapmask" "models/weapons/v_models/PVPNesLiGun/zapper_envmap_alpha"  
+	"$envmap" "env_cubemap" 
+	"$envmapcontrast" "1"  
+	"$envmapsaturation" "[.2 .1 1]" 
+}

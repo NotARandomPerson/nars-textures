@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/v_mp5/map4"
+	"$bumpmap" "models/weapons/v_mp5/map4_normal"
+
+	"model" 1
+}

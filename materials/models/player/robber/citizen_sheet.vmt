@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/robber/citizen_sheet"
+	"$bumpmap" "models/player/robber/citizen_sheet_normal"
+	"$halflambert" 1
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/norm/glassvisor"
+	"$envmap" "env_cubemap"
+}

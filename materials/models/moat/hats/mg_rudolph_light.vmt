@@ -1,0 +1,22 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/moat/hats/mg_rudolph_light"
+"$nodecal" 1
+	$offset 0
+
+	Proxies{
+		EntityRandom
+		{
+			resultVar $offset
+		}
+
+		Sine
+		{
+			resultVar	$color2
+			sineperiod	3
+			sinemin		0.8
+			sinemax		2
+			timeoffset		$offset
+		}
+	}
+}

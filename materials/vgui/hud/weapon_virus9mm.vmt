@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/weapon_virus9mm"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

@@ -1,0 +1,10 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/player/teslapower/slow_body"
+	"$bumpmap" "models/player/teslapower/slow_body_bump"
+
+ 	"$phong" "1"
+	"$phongexponent" "11"
+	"$phongboost"	"13"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

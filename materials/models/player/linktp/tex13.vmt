@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/linktp/tex13"
+	"$halflambert" 1
+	Proxies
+{
+PlayerColor
+		{
+			resultVar	$color2 // pass the player color value to Gmod
+			default		0.23 0.35 0.41 // unused for now.
+		}
+Modific
+		{
+	
+		}
+}
+}

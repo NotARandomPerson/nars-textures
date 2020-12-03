@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture "models/players/bond/bond_head"
+	$bumpmap "models/players/bond/bond_head_normal"
+	"$halflambert" 1
+
+	$model 1
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/players/bond/Bond_Head_exponent"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.1 .55 1]"
+	"$lightwarptexture" "models/players/player_lightwarp"
+
+	$rimlight 1
+	$rimexponent 2
+	$rimboost 0.2
+}

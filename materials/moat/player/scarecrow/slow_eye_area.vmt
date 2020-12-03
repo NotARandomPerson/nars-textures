@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "moat/player/scarecrow/slow_head"
+	"$bumpmap" "moat/player/scarecrow/slow_head_bump"
+}

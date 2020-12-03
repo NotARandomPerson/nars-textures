@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/romanbellic/teef_diff_000_a_uni"
+	"$halflambert" 1
+}

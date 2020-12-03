@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/player/me2/slow_body"
+	"$bumpmap" 		"models/player/me2/slow_body_bump"
+
+	"$selfillum"		"1"
+	"$selfillummask"		"models/player/me2/slow_body_sf"
+
+ 	"$phong" 			"1"
+	"$phongexponent" 		"2"
+	"$phongboost"		"4"
+	"$phongfresnelranges"	"[.15 .3 .5]"
+
+	"$nodecal" 			1
+}

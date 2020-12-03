@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/m/envmap"
+	"$envmap" "env_cubemap"
+	"$model" 1
+}

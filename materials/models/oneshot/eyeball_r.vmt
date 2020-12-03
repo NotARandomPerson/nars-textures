@@ -1,0 +1,19 @@
+"EyeRefract"
+{
+	"$Iris" "models/oneshot/pupilgrad"
+	"$AmbientOcclTexture" "models/oneshot/redao" 
+	"$Envmap" "models/oneshot/eye_cubemap"
+	"$CorneaTexture" "models/oneshot/testcornea"
+	"$ambientocclusion" "1"
+	"$EyeballRadius" "1"
+	"$Dilation" "0.5" 
+	"$halflambert" "1"
+	"$nodecal" "1"
+	//"$RaytraceSphere" "0" 
+	"Eyes_dx8"
+	{
+	"$basetexture" "models/oneshot/eyeball"
+	"$iris" "models/oneshot/pupilnew"
+	"$halflambert" "1"
+	}
+}

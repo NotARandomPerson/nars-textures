@@ -1,0 +1,11 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/player/alt/clothingpiece"
+	"$halflambert" 1
+	"$bumpmap" "models/player/alt/clothingpiece_bump"
+	
+	"$phong" "1"
+	"$phongexponent" 30
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.05 0.4 1]"
+}

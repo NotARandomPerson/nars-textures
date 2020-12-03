@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "moat\player/sunabouzu/fedorahat"
+	"$nocull" 1
+}

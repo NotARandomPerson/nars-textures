@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/aphaztech/mask"
+	"$model" 1
+	"$translucent" 1
+	"$bumpmap" "models/player/aphaztech/mask_normal"
+
+	"$envmap" "env_cubemap"
+	"$envmapconstrast" "5"
+	"$envmapsaturation" .5
+	"$envmaptint" "[ .65 .65 .64]"
+}
+
+
+

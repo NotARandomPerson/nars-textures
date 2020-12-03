@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\superheroes\slow_flash"
+//	"$bumpmap" "models\player\superheroes\slow_flash_bump"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\player\superheroes\slow_flash"
+	"$envmaptint" "[.9 1 .9]"
+	"$envmapcontrast" .55
+	"$envmapsaturation" .85
+}
+

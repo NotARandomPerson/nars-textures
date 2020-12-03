@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "acid/acid1"
+	"$surfaceprop" "Water"
+	"$model" 1
+	"$translucent" 1
+}

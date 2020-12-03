@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+     	"$basetexture" 			"models\weapons\v_models\Bledo's UMP45\eotech_diff.vtf"
+     	"$bumpmap" 			"models\weapons\v_models\Bledo's UMP45\eotech_bump.vtf"
+
+}

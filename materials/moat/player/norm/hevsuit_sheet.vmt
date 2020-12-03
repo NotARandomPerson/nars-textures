@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "moat/player/norm/hevsuit_sheet"
+
+	"$envmapconstrast" "10"
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .56 .67 .75 ]"
+
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost"	"1"
+	"$phongfresnelranges" "[0.1 2.1 5.1]"
+	"$phongexponenttexture" "models/player/aphaztech/coat_phong"
+	"$phongalbedotint" "1"
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

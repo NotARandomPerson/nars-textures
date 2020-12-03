@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/leon/pl0012"
+	//	"$model" 1
+	//	"$bumpmap" "models/player/leon/pl0012_n"
+	//		"$envmap" "env_cubemap"
+	//		"$envmaptint" "[.1 .1 .1]"
+}

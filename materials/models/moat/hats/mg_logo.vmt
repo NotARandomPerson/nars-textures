@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/moat/hats/mg_logo"
+	$vertexcolor 1
+	$vertexalpha 1
+	$translucent 1
+}
