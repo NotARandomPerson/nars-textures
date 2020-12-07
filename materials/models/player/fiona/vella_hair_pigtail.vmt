@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\fiona\vella_hair_pigtail"
+
+	"$nocull"		1
+	"$nodecal" 		1
+	"$alphatest" 		1
+	"$translucent" 		1
+	"$halflambert"		1
+	
+	"$hairmask"	"models\player\vella\vella_hair_pigtail_mask" 
+	"$phongshift0"		0.1
+	"$phongshift1"		-0.2
+	
+	"$phongexponent0"	450
+	"$phongexponent1"	15
+	
+	"$phongboost"	"0.2"
+	"$phongbasefactor"	"10"	
+	
+	"$rimlight_exp"		"8"
+	"$rimlight_boost"	"18"
+	
+	"$backlight_boost"	"1"
+}

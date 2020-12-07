@@ -1,0 +1,64 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\player\fiona\pc_female_asuna_head"
+	"$bumpmap"		"models\player\fiona\pc_female_asuna_head_normal" 
+	
+	// ¹«±¤
+	"$halflambert"		1
+	"$nocull"		0
+	"$nodecal" 		1
+	"$alphatest" 		0
+	"$translucent" 		0
+
+	"$phong_enable"		1
+
+	"$phongexponent" 	1
+	"$phongboost" 		0.2
+
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		4
+	"$rimlight_boost"	55
+
+	"$sss_enable"		0
+	"$sss_mask"			1
+	"$sss_color"		"[1 0.5 0.5 0.5]"
+	
+	// ±¤
+	// "$halflambert"		1
+	// "$nocull"		0
+	// "$nodecal" 		1
+	// "$alphatest" 		0
+	// "$translucent" 		0
+
+	// "$phong_enable"		1
+
+	// "$phongexponent" 	1
+	// "$phongboost" 		0.2
+
+
+	// "$rimlight_enable"	1
+	// "$rimlight_exp"		4
+	// "$rimlight_boost"	55
+
+	// "$sss_enable"		0
+	// "$sss_mask"			1
+	// "$sss_color"		"[1 0.5 0.5 0.5]"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

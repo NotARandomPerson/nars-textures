@@ -2,9 +2,8 @@
 {
 	"$basetexture" "models/dewobedil/maid_dragon/lucoa/default/blush2"
 	"$alphatest" 1
-	$ambientocclusion 0
-	$halflambert 1
-	"$bumpmap" "models/dewobedil/maid_dragon/lucoa/default/normal"
+	"$nodecal" 1
+
 
 	"$lightwarptexture" "models/dewobedil/maid_dragon/lucoa/default/toon_head"
 

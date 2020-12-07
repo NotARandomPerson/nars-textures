@@ -1,0 +1,40 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\fiona\pc_female_asuna_lower"
+	"$bumpmap" "models\player\fiona\pc_female_asuna_lower_normal"
+
+	// ¹«±¤ÅÃ
+	"$nocull"		1
+	"$nodecal" 		1
+	"$alphatest" 		1
+	"$translucent" 		0
+	"$halflambert"		0
+
+	"$envmapmask"		""
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	0
+	"$phongboost" 		0.05
+	
+	"$surface" "cloth"
+	
+	// ±¤ÅÃ
+	// "$nocull"		1
+	// "$nodecal" 		1
+	// "$alphatest" 		1
+	// "$translucent" 		0
+	// "$halflambert"		0
+
+	// "$envmapmask"		""
+	
+	// "$phong_enable"		1
+	// "$phongexponent"    3
+	// "$phongboost" 	   0.3
+
+	// "$rimlight_enable"	1
+	// "$rimlight_exp"		2
+	// "$rimlight_boost"	4
+	
+	// "$surface" "cloth"
+}
